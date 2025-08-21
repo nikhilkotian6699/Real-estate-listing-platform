@@ -7,7 +7,7 @@ Currently under active development (frontend only).
 
 Preview of the UI in progress (from public/screenshots/):
 
-<p align="center"> <img src="./public/screenshots/grulow100.png" width="400"/> <img src="./public/screenshots/grulow2.png" width="400"/> <img src="./public/screenshots/grulow103.png" width="400"/> <img src="./public/screenshots/grulow104.png" width="400"/> <img src="./public/screenshots/grulow105.png" width="400"/> <img src="./public/screenshots/grulow106.png" width="400"/> <img src="./public/screenshots/grulow107.png" width="400"/> <img src="./public/screenshots/grulow108.png" width="400"/> <img src="./public/screenshots/grulow109.png" width="400"/> <img src="./public/screenshots/grulow110.png" width="400"/> <img src="./public/screenshots/grulow111.png" width="400"/> </p>
+<p align="center"> <img src="./public/screenshot/grulow100.png" width="400"/> <img src="./public/screenshot/grulow2.png" width="400"/> <img src="./public/screenshot/grulow103.png" width="400"/> <img src="./public/screenshot/grulow104.png" width="400"/> <img src="./public/screenshot/grulow105.png" width="400"/> <img src="./public/screenshot/grulow106.png" width="400"/> <img src="./public/screenshot/grulow107.png" width="400"/> <img src="./public/screenshot/grulow108.png" width="400"/> <img src="./public/screenshot/grulow109.png" width="400"/> <img src="./public/screenshot/grulow110.png" width="400"/> <img src="./public/screenshot/grulow111.png" width="400"/> </p>
 🚀 Tech Stack
 
 Next.js (App Router)
