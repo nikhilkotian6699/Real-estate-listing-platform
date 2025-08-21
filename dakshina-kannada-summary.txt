@@ -1,0 +1,40 @@
+DAKSHINA KANNADA DISTRICT - LOCATION SUMMARY
+==================================================
+
+District: Dakshina Kannada
+Total Taluks: 6
+
+Mangaluru (Mangalore):
+  Cities: 26
+  Villages: 67
+  Total: 93
+
+Moodabidri:
+  Cities: 1
+  Villages: 27
+  Total: 28
+
+Bantwal:
+  Cities: 9
+  Villages: 67
+  Total: 76
+
+Puttur:
+  Cities: 2
+  Villages: 59
+  Total: 61
+
+Belthangady:
+  Cities: 2
+  Villages: 66
+  Total: 68
+
+Sullia:
+  Cities: 1
+  Villages: 33
+  Total: 34
+
+OVERALL TOTALS:
+Total Cities/Towns: 41
+Total Villages: 319
+Grand Total: 360
